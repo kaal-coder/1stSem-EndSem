@@ -1,4 +1,4 @@
-# MajorAssignment
+# MajorAssignment-2021
 
 Course Number and Name: **CSE 1001, Introduction to Computer Programming** 💻
 
