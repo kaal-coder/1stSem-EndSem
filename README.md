@@ -1,4 +1,4 @@
-# MajorAssignment-2021
+# Java Output Questions
 
 Course Number and Name: **CSE 1001, Introduction to Computer Programming** 💻
 
